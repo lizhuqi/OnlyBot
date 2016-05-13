@@ -18,6 +18,6 @@
   "homepage": "https://github.com/lizhuqi/OnlyBot#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "lonelybots-sdk": "^1.0.0"
+    "lonelybots-sdk": "^1.0.1"
   }
 }
