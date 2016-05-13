@@ -1,0 +1,23 @@
+{
+  "name": "onlybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhuqi/OnlyBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhuqi/OnlyBot/issues"
+  },
+  "homepage": "https://github.com/lizhuqi/OnlyBot#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lonelybots-sdk": "^1.0.0"
+  }
+}
